@@ -1,0 +1,12 @@
+# Node modules folder
+node_modules/
+
+
+# Private key
+dev-wallet.json
+dev-wallet-3.json
+
+# Build output directories
+dist/
+build/
+out/
